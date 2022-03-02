@@ -5,7 +5,35 @@ import PlaygroundSupport
 let canvas = Canvas()
 PlaygroundPage.current.needsIndefiniteExecution = true
 PlaygroundPage.current.liveView = canvas
+// Ne regardez pas la correction !
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+canvas.moveBusForward()
+canvas.moveBusForward()
+canvas.moveBusForward()
+canvas.stopBus()
+canvas.moveBusForward()
+canvas.moveBusForward()
+canva.stopBus()
 /*:
  - - -
  # Découverte du canevas
